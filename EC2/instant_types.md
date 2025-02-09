@@ -1,4 +1,4 @@
-### **Understanding AWS EC2 Instance Types (Beginner-Friendly Explanation)**
+### **Understanding AWS EC2 Instance Types**
 
 AWS **Elastic Compute Cloud (EC2)** allows you to rent virtual servers (instances) in the cloud. These instances come in different **types**, designed for different workloads. Choosing the right instance type ensures your applications run efficiently and cost-effectively.
 
